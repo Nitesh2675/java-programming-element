@@ -9,5 +9,4 @@ public static void main(String[] args){
 System.out.print("Sam's average mark in PCM IS "+ (maths+physics+chemistry)/3 ); 
  
   }
-
 }
